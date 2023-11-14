@@ -156,5 +156,5 @@ print(r[::-1])
 
 # this also called as an array slyzing
 
-#justt a text in local repo
+#justt a text written in local repo 
  
