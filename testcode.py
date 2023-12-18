@@ -1,1 +1,7 @@
-print("KRISH")
+# logical operator in python
+ 
+"""
+and 
+or
+not 
+"""

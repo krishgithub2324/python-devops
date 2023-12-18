@@ -156,5 +156,95 @@ print(r[::-1])
 
 # this also called as an array slyzing
 
-#justt a text written in local repo 
- 
+# arithmetic operators
+
+
+### addition +
+### subtraction -
+### multiplication *
+### division /
+### modulus %
+### ** exponentiation
+### // floor division
+
+a= 123
+b= 12
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a // b)
+print(a % b)
+print(a ** b)
+
+
+# assignment opperator
+
+"""
+= assignment opperator
+ += addition 
+ -= subtraction 
+ *=multiplication 
+ /= division 
+ %=modulus 
+ **=exponentiation
+//= floor division
+"""
+
+a=2324
+print(a)
+a += 20
+print (a)
+
+a=2324
+print(a)
+a -= 20
+print (a)
+
+a=2324
+print(a)
+a *= 20
+print (a)
+
+a=2324
+print(a)
+a /= 20
+print (a)
+
+a=2324
+print(a)
+a %= 20
+print (a)
+
+a=2324
+print(a)
+a **= 20
+print (a)
+
+a=2324
+print(a)
+a //= 20
+print (a)
+
+
+# comprasion operator or relational operator
+
+"""
+== equal 
+!= not equal
+> greater than 
+< less than 
+>= greator than or equal to
+<= less than or equal to
+"""
+
+a=23
+b=24
+print(a == b)
+print(a != b)
+print(a > b)
+print(a < b)
+print(a >= b)
+print(a <= b)
+
+
